@@ -1,6 +1,4 @@
 # Aqui está uma nova atualização por solon07
-# Aqui está outra atualização por solon07
-
 
 # Shipping Cost Calculator
 
